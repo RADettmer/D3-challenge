@@ -21,10 +21,8 @@ Folders/Assets
 	js - app.js
 	
 
-IMAGES:
+IMAGES: (These are in the assests/data folder)
 
 D3Times tag - is a screen shot with a highlighted tag
 
 D3Times - is a screen shot without the highlighted tag
-
-The above files are in the assets/data folder.
