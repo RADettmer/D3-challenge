@@ -7,13 +7,27 @@ This data includes data on rates of income, age, obesity, poverty, smokes and la
 ### Files
 Files included are as follows.
 
-
 index.html
 
 Folders/Assets
-	CSS - d3Style.css & style.css
-	data - data.csv & D3Times_tag.pdf & D3Times.pdf
-	js - app.js
+
+CSS
+
+d3Style.css
+
+style.css
+
+data
+
+data.csv
+
+D3Times_tag.pdf
+
+D3Times.pdf
+	
+js
+
+app.js
 	
 
 IMAGES: (These are in the assests/data folder)
@@ -25,6 +39,7 @@ D3Times - is a screen shot without the highlighted tag
 ## Observations and Inferences
 
 Correlations Discovered Between Health Risks and Age, Income for the data from 2014.
+
 The initial review of these scatter plots, you will notice that Mississippi seems to have several risk factors stacked against it. They lead the US in the amount of obesity (35.5%), 21.5% of their residence live in poverty and it comes in second (after Georgia) with 18.8% of their residence lacking health insurance.
 
 Some other quick observations to note. Although Kentucky and West Virginia have high smoking rates, 26.2% and 26.7% respectfully, on the other hand, only 10% in Kentucky and 10.1% in West Virginia lack health insurance. In addition, their average household income is very close for both, $42,958 for Kentucky and $41,059 for West Virginia.
