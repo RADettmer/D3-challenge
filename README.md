@@ -22,7 +22,7 @@ D3Times tag - is a screen shot with a highlighted tag
 
 D3Times - is a screen shot without the highlighted tag
 
-## Observasions
+## Observations and Inferences
 
 Correlations Discovered Between Health Risks and Age, Income
 The initial review of these scatter plots, you will notice that Mississippi seems to have several risk factors stacked against it. They lead the US in the amount of obesity (35.5%), 21.5% of their residence live in poverty and it comes in second (after Georgia) with 18.8% of their residence lacking health insurance.
