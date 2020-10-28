@@ -143,7 +143,8 @@ function styleX(value, chosenXAxis) {
       toolTip.hide(data);   
     });
   return circlesGroup;
-} // end of tooltip + + + + + + + + + + + + +
+} 
+// end of tooltip + + + + + + + + + + + + +
 
 // Retrieve data from the CSV file and execute everything below
 d3.csv("assets/data/data.csv").then(function(Demodata, err) {
